@@ -1,7 +1,7 @@
 # https://github.com/manuelruder/fast-artistic-videos
 
 # https://github.com/lmb-freiburg/flownet2
-FROM positlabs/flownet2
+FROM lmb-freiburg/flownet2
 
 # use bash
 SHELL ["/bin/bash", "-c"]
